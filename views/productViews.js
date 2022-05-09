@@ -1,3 +1,5 @@
+const Product = require("../models/ProductModel");
+
 const addProducts = async () => {}
 
 const getProducts = async () => {}
